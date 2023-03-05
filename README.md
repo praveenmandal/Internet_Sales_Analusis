@@ -34,7 +34,7 @@ These columns are of no use right now hence they are removed by declaring them a
 ### 2. Removing NULL values from column.
 NULL values from industry column are removed in the industry column through value selection option in POWER BI.
 
-## Findings:
+## Insights:
 - Total Sales-22194469
 - Mountain-200-Black_42,Mountain-200-Silver_38,Mountain-200-Black_38,Mountain-200-Black_46,Mountain-200-Silver_46 are top 5 products thats been sold while the sales peaked twice in the month od june and dec in 2020
 - Jordan Turner-Nov,Maurise Shan-Jan,Janet Mulonoz-Jan,Usa Cal-Aug,Lancy Zheng-Nov are the top 5 customers with the month of max sales.
